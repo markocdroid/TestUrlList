@@ -1,10 +1,9 @@
 [
-   "https://time.paycor.com/Kiosk/136737",
-   "https://martinseggs.com/",
-   "https://bam.nr-data.net",
-   "https://js-agent.newrelic.com",
-   "https://app.pendo.io",
-   "https://workspace.google.com",
-   "https://accounts.google.com"
-
+  { "url": "https://time.paycor.com/Kiosk/136737", "isActive": true },
+  { "url": "https://martinseggs.com/", "isActive": true },
+  { "url": "https://bam.nr-data.net", "isActive": true },
+  { "url": "https://js-agent.newrelic.com", "isActive": true },
+  { "url": "https://app.pendo.io", "isActive": true },
+  { "url": "https://workspace.google.com", "isActive": true },
+  { "url": "https://accounts.google.com", "isActive": true }
 ]
