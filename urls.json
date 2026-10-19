@@ -1,9 +1,9 @@
 [
   { "url": "https://time.paycor.com/Kiosk/136737", "isVisible": true },
   { "url": "https://martinseggs.com/", "isVisible": true },
-  { "url": "https://bam.nr-data.net", "isVisible": true },
-  { "url": "https://js-agent.newrelic.com", "isVisible": true },
-  { "url": "https://app.pendo.io", "isVisible": true },
-  { "url": "https://workspace.google.com", "isVisible": true },
-  { "url": "https://accounts.google.com", "isVisible": true }
+  { "url": "https://bam.nr-data.net", "isVisible": false },
+  { "url": "https://js-agent.newrelic.com", "isVisible": false },
+  { "url": "https://app.pendo.io", "isVisible": false },
+  { "url": "https://workspace.google.com", "isVisible": false },
+  { "url": "https://accounts.google.com", "isVisible": false }
 ]
